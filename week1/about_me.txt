@@ -1,0 +1,7 @@
+I decided to learn CLoud Computing because i wanted to 
+understand how modern applications are hosted and scaled.
+
+I realized that knowing how to deploy, manage, and secure 
+applications in the cloud is an essential skill for any backend developer. 
+Learning cloud platforms also allows me to work on real-world projects andprepare 
+for future remote work opportunities.
