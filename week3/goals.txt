@@ -1,0 +1,42 @@
+My Cloud Computing Programming Goals:
+
+1. Learn a programming language commonly used in cloud development:
+   - Python (automation, serverless functions)
+   - JavaScript/Node.js (backend APIs)
+
+2. Understand Git and version control:
+   - Use GitHub to manage cloud projects
+   - Learn branching, commits, and pull requests
+
+3. Master Linux and command-line basics:
+   - Navigation, file management, permissions
+   - Bash scripting for automation
+
+4. Learn networking fundamentals:
+   - IP addresses, ports, DNS
+   - HTTP/HTTPS, firewalls, security groups
+
+5. Get familiar with a cloud platform (AWS, Azure, or GCP):
+   - Deploy virtual servers (EC2 or equivalent)
+   - Use object storage (S3, Blob Storage)
+   - Work with serverless functions (AWS Lambda, Azure Functions)
+   - Set up databases (RDS, DynamoDB, Cloud SQL)
+
+6. Learn DevOps basics:
+   - Docker for containerization
+   - CI/CD pipelines (GitHub Actions, Jenkins)
+   - Infrastructure as Code (Terraform, CloudFormation)
+
+7. Build cloud projects:
+   - Host a website on cloud storage
+   - Deploy a REST API on a cloud server
+   - Automate tasks with serverless functions
+   - Integrate monitoring/logging tools
+
+8. Focus on cloud security and best practices:
+   - Manage IAM roles and permissions
+   - Encrypt data at rest and in transit
+   - Set up backup and disaster recovery
+
+9. Contribute to open-source or real-world cloud projects
+10. Continuously update knowledge as cloud platforms evolve
